@@ -1,2 +1,3 @@
 # Hello-world<br>
 This is my first Git repo.
+I am currently studying the backend program offered by meta along with frontend a bit......
